@@ -1,0 +1,6 @@
+.venv/
+data/*
+!data/mitre_attack.json
+.env
+__pycache__/
+.pytest_cache/

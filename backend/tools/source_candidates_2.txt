@@ -1,0 +1,514 @@
+# round 2 (same format). Candidates only: nothing is trusted until fetched and parsed.
+NEWS|US|CISO Mag|https://www.cisomag.com/feed/
+NEWS|ES|Redes Zone Seguridad|https://www.redeszone.net/seguridad/feed/
+NEWS|ES|MuySeguridad|https://www.muyseguridad.net/feed/
+NEWS|ES|Computing Seguridad|https://www.computing.es/seguridad/feed/
+NEWS|ES|Diario TI|https://diarioti.com/feed/
+NEWS|ES|elhacker.NET|https://blog.elhacker.net/feeds/posts/default
+NEWS|ES|Ciberseguridad Blog|https://www.ciberseguridad.blog/feed/
+NEWS|BR|WeLiveSecurity Brasil|https://www.welivesecurity.com/br/feed/
+NEWS|BR|Kaspersky Blog Brasil|https://www.kaspersky.com.br/blog/feed/
+NEWS|BR|Mind Security|https://canaltech.com.br/seguranca/rss/
+NEWS|FR|Silicon.fr Sécurité|https://www.silicon.fr/categorie/cybersecurite/feed
+NEWS|FR|ZDNet.fr Sécurité|https://www.zdnet.fr/feeds/rss/actualites/securite/
+NEWS|FR|Cybermalveillance.gouv.fr|https://www.cybermalveillance.gouv.fr/feed/
+NEWS|FR|Les Numériques Sécurité|https://www.01net.com/actualites/cybersecurite/feed/
+NEWS|FR|Zataz Actualités|https://www.zataz.com/category/actualites/feed/
+NEWS|DE|ZDNet.de Security|https://www.zdnet.de/kategorie/security/feed/
+NEWS|DE|Kuketz IT-Security Blog|https://www.kuketz-blog.de/feed/
+NEWS|DE|Dr. Datenschutz|https://www.dr-datenschutz.de/feed/
+NEWS|DE|Datenschutz Notizen|https://www.datenschutz-notizen.de/feed/
+NEWS|DE|Heise Security Alert|https://www.heise.de/security/rss/alert-news-atom.xml
+NEWS|DE|Computerwoche Security|https://www.computerwoche.de/rss/security.xml
+NEWS|DE|Netzpolitik|https://netzpolitik.org/feed/
+NEWS|IT|Agenda Digitale Sicurezza|https://www.agendadigitale.eu/sicurezza/feed/
+NEWS|IT|Difesa Online|https://www.difesaonline.it/rss.xml
+NEWS|IT|Security Info|https://www.securityinfo.it/feed/
+NEWS|NL|Computable Security|https://www.computable.nl/rss/security.xml
+NEWS|RU|Kaspersky Daily RU|https://www.kaspersky.ru/blog/feed/
+NEWS|RU|Habr Cyber Security|https://habr.com/ru/rss/hubs/information_security/articles/
+NEWS|RU|Anti-Malware|https://www.anti-malware.ru/rss.xml
+NEWS|UA|Cyber Security UA|https://cyberaware.gov.ua/feed/
+NEWS|JP|Piyolog|https://piyolog.hatenadiary.jp/rss
+NEWS|JP|Trend Micro Japan Blog|https://blog.trendmicro.co.jp/feed
+NEWS|JP|Impress Security Watch|https://internet.watch.impress.co.jp/data/rss/1.0/iw/feed.rdf
+NEWS|KR|AhnLab ASEC|https://asec.ahnlab.com/ko/feed/
+NEWS|KR|AhnLab ASEC EN|https://asec.ahnlab.com/en/feed/
+NEWS|CN|4hou|https://www.4hou.com/feed
+NEWS|CN|NSFOCUS Blog|https://blog.nsfocus.net/feed/
+NEWS|CN|Aliyun XZ|https://xz.aliyun.com/feed
+NEWS|IN|Cyber Security Review|https://www.cybersecurity-review.com/feed/
+NEWS|SG|Security Brief Asia|https://securitybrief.asia/rss
+NEWS|AU|iTnews Security|https://www.itnews.com.au/RSS/rss.ashx?type=Category&ID=2
+NEWS|AU|SecurityBrief Australia|https://securitybrief.com.au/rss
+NEWS|NZ|SecurityBrief NZ|https://securitybrief.co.nz/rss
+NEWS|ZA|ITWeb Security|https://www.itweb.co.za/rss/security.xml
+NEWS|US|Security Magazine|https://www.securitymagazine.com/rss/topic/2236
+NEWS|US|SecurityInfoWatch|https://www.securityinfowatch.com/rss
+NEWS|US|HackerOne News|https://www.hackerone.com/feed
+NEWS|US|Lawfare Cyber|https://www.lawfaremedia.org/feed
+NEWS|US|CyberWire Daily Briefing|https://thecyberwire.com/feeds/daily-briefing.xml
+NEWS|US|BankInfoSecurity|https://www.bankinfosecurity.com/rss-feeds
+NEWS|US|GovInfoSecurity|https://www.govinfosecurity.com/rss-feeds
+NEWS|US|Bank Security|https://www.databreachtoday.com/rssFeeds.php?type=main
+NEWS|US|MSSP Alert|https://www.msspalert.com/feed
+NEWS|US|Channel E2E Security|https://www.channele2e.com/feed/
+NEWS|US|Security Intelligence News|https://securityintelligence.com/news/feed/
+NEWS|US|SC Media News|https://www.scworld.com/rss/feed
+NEWS|US|Threat Picture|https://threatpicture.com/feed/
+NEWS|US|HackerNoon Security|https://hackernoon.com/tagged/security/feed
+NEWS|GB|Infosecurity Magazine Opinions|https://www.infosecurity-magazine.com/rss/opinions/
+NEWS|GB|Infosecurity Magazine Blogs|https://www.infosecurity-magazine.com/rss/blogs/
+NEWS|GB|Tripwire State of Security|https://www.tripwire.com/state-of-security/feed
+NEWS|GB|The Stack|https://www.thestack.technology/rss/
+NEWS|GB|Computer Weekly Ransomware|https://www.computerweekly.com/rss/Ransomware.xml
+NEWS|US|Dark Reading Cloud Security|https://www.darkreading.com/rss/cloud-security.xml
+NEWS|US|Dark Reading Application Security|https://www.darkreading.com/rss/application-security.xml
+NEWS|US|Dark Reading Endpoint|https://www.darkreading.com/rss/endpoint-security.xml
+NEWS|US|Dark Reading Threat Intelligence|https://www.darkreading.com/rss/threat-intelligence.xml
+NEWS|US|Dark Reading ICS OT|https://www.darkreading.com/rss/ics-ot-security.xml
+NEWS|US|Dark Reading Attacks Breaches|https://www.darkreading.com/rss/attacks-breaches.xml
+NEWS|US|SecurityWeek Malware|https://www.securityweek.com/category/malware-cyber-threats/feed/
+NEWS|US|SecurityWeek Vulnerabilities|https://www.securityweek.com/category/vulnerabilities/feed/
+NEWS|US|SecurityWeek Cybercrime|https://www.securityweek.com/category/cybercrime/feed/
+NEWS|US|SecurityWeek Privacy|https://www.securityweek.com/category/data-protection/feed/
+NEWS|US|SecurityWeek Cloud|https://www.securityweek.com/category/cloud-security/feed/
+TI|US|Trustwave SpiderLabs|https://www.trustwave.com/en-us/rss/blogs/spiderlabs/
+TI|US|CIS Insights Blog|https://www.cisecurity.org/insights/blog/feed
+TI|US|SentinelOne Blog|https://www.sentinelone.com/blog/feed/
+TI|US|Imperva Blog|https://www.imperva.com/blog/feed/
+TI|US|Varonis Blog|https://www.varonis.com/blog/rss.xml
+TI|US|KnowBe4 Blog|https://blog.knowbe4.com/rss.xml
+TI|US|Mimecast Blog|https://www.mimecast.com/blog/feed/
+TI|US|Zimperium|https://www.zimperium.com/feed/
+TI|US|Lookout Threat Intelligence|https://www.lookout.com/blog/feed
+TI|US|Cyfirma|https://www.cyfirma.com/feed/
+TI|US|GuidePoint Research|https://www.guidepointsecurity.com/feed/
+TI|US|LogPoint|https://www.logpoint.com/en/blog/feed/
+TI|US|Exabeam|https://www.exabeam.com/blog/feed/
+TI|US|Splunk Security Blog|https://www.splunk.com/en_us/blog/security/feed
+TI|US|Okta Blog|https://www.okta.com/blog/feed/
+TI|US|CyberArk Blog|https://www.cyberark.com/resources/blog/feed
+TI|US|BeyondTrust Blog|https://www.beyondtrust.com/blog/rss.xml
+TI|US|Tanium Blog|https://www.tanium.com/blog/feed/
+TI|US|Vectra AI|https://www.vectra.ai/blog/feed
+TI|US|Menlo Security|https://www.menlosecurity.com/blog/feed/
+TI|US|Abnormal Security|https://abnormalsecurity.com/blog/rss.xml
+TI|US|SlashNext|https://slashnext.com/feed/
+TI|US|Perception Point|https://perception-point.io/feed/
+TI|US|Bitsight|https://www.bitsight.com/blog/rss.xml
+TI|US|UpGuard|https://www.upguard.com/rss.xml
+TI|US|Recorded Future Insikt|https://www.recordedfuture.com/research/feed
+TI|US|CrowdStrike Blog All|https://www.crowdstrike.com/en-us/blog/feed
+TI|US|Mandiant Cloud Blog|https://cloud.google.com/blog/topics/threat-intelligence/rss
+TI|US|F5 Labs|https://www.f5.com/labs/rss
+TI|US|Akamai Blog|https://www.akamai.com/blog/rss.xml
+TI|US|Gen Digital|https://www.gendigital.com/blog/feed
+TI|US|Avast Blog|https://blog.avast.com/feed
+TI|US|ThreatLocker|https://www.threatlocker.com/blog/rss.xml
+TI|US|Blumira|https://www.blumira.com/blog/rss.xml
+TI|US|Coalition Security Labs|https://www.coalitioninc.com/blog/feed
+TI|US|Elastic Security|https://www.elastic.co/blog/category/security/rss
+TI|US|Illumio|https://www.illumio.com/blog/rss.xml
+TI|US|Tufin|https://www.tufin.com/blog/feed
+TI|US|Bishop Fox Research|https://bishopfox.com/blog/rss.xml
+TI|US|Forcepoint X-Labs|https://www.forcepoint.com/blog/x-labs/rss.xml
+TI|US|Quorum Cyber|https://www.quorumcyber.com/feed/
+TI|GB|Pen Test Partners Blog|https://www.pentestpartners.com/security-blog/feed/
+TI|GB|Context Information Security|https://www.contextis.com/en/blog/rss
+TI|GB|Immersive Labs|https://www.immersivelabs.com/blog/feed/
+TI|GB|Kaspersky Securelist ICS|https://securelist.com/category/ics-threats/feed/
+TI|IL|Cato Networks CTRL|https://www.catonetworks.com/blog/feed/
+TI|IL|Cybereason Research|https://www.cybereason.com/blog/category/research/rss.xml
+TI|IL|Orca Research|https://orca.security/resources/blog/feed/
+TI|IL|Pentera|https://pentera.io/blog/feed/
+TI|IL|Cyberint|https://cyberint.com/blog/feed/
+TI|IL|Kela|https://www.kelacyber.com/feed/
+TI|IL|Wiz Blog Feed|https://www.wiz.io/feed/rss.xml
+TI|CH|Kudelski Security|https://research.kudelskisecurity.com/feed/
+TI|CH|Nagra|https://www.kudelskisecurity.com/feed/
+TI|NL|Eclypsium|https://eclypsium.com/blog/feed/
+TI|NO|Telenor Security|https://www.telenor.com/feed/
+TI|SE|Truesec|https://www.truesec.com/hub/blog/feed
+TI|FI|F-Secure Blog|https://blog.f-secure.com/feed/
+TI|DE|Cyber Security Cloud|https://www.cyberdefenders.org/blog/feed/
+TI|DE|Greenbone|https://www.greenbone.net/en/feed/
+TI|DE|Cyber Intelligence Mimecast|https://www.mimecast.com/threat-intelligence-hub/feed/
+TI|AU|Tesserent|https://www.tesserent.com/insights/rss
+TI|AU|CyberCX|https://cybercx.com.au/feed/
+TI|CA|eSentire|https://www.esentire.com/blog/feed
+TI|CA|Arctic Wolf Labs|https://arcticwolf.com/resources/blog/rss/
+TI|JP|LAC Watch|https://www.lac.co.jp/lacwatch/feed.xml
+TI|JP|NTT Security Holdings|https://www.security.ntt/feed
+TI|IN|Quick Heal Blog|https://blogs.quickheal.com/feed/
+TI|IN|Seqrite Blog|https://www.seqrite.com/blog/feed/
+TI|IN|Cyble Research|https://cyble.com/blog/feed/
+TI|IN|CloudSEK|https://www.cloudsek.com/feed
+TI|SG|CyberSG|https://www.csa.gov.sg/feed
+VULN|US|Zero Day Initiative Blog|https://www.zerodayinitiative.com/blog/?format=rss
+VULN|US|ZDI Upcoming Advisories|https://www.zerodayinitiative.com/rss/upcoming/
+VULN|US|CIS Advisories|https://www.cisecurity.org/feed/advisories
+VULN|US|Daniel Stenberg curl|https://daniel.haxx.se/blog/feed/
+VULN|US|Calif.io|https://blog.calif.io/feed
+VULN|US|Elttam Blog|https://www.elttam.com/blog/feed.xml
+VULN|US|Project Discovery|https://projectdiscovery.io/blog/rss.xml
+VULN|US|Metasploit Weekly Wrap-Up|https://www.rapid7.com/blog/tag/metasploit/rss/
+VULN|US|Rapid7 Emergent Threat Response|https://www.rapid7.com/blog/tag/emergent-threat-response/rss/
+VULN|US|Tenable Blog|https://www.tenable.com/blog/feed
+VULN|US|Qualys Blog|https://blog.qualys.com/category/vulnerabilities-threat-research/feed
+VULN|US|Palo Alto Unit 42 Threat Research|https://unit42.paloaltonetworks.com/category/threat-research/feed/
+VULN|DE|Cyber Security Works|https://www.cybersecurity-works.com/feed/
+VULN|DE|r2c Security|https://owasp.org/www-community/feed.xml
+VULN|PL|Sekurak Vulns|https://sekurak.pl/tag/podatnosci/feed/
+VULN|PL|Zaufana Trzecia Strona|https://zaufanatrzeciastrona.pl/feed/
+VULN|TW|DEVCORE|https://devco.re/rss.xml
+VULN|TW|Orange Tsai|https://blog.orange.tw/atom.xml
+VULN|KR|Theori Blog|https://blog.theori.io/feed
+VULN|JP|GMO Cybersecurity|https://blog.flatt.tech/feed
+VULN|US|Chromium Blog|https://blog.chromium.org/feeds/posts/default
+VULN|US|WebKit Blog|https://webkit.org/feed/
+VULN|US|V8 Dev Blog|https://v8.dev/blog.atom
+VULN|US|The Hacker's Choice|https://blog.thc.org/feed
+VULN|US|Phrack|http://phrack.org/feed.xml
+VULN|US|Linux Kernel Hardening|https://lwn.net/headlines/rss
+VULN|US|Securityaffairs Hacking|https://securityaffairs.com/category/hacking/feed
+VULN|US|Seclists Nmap Dev|https://seclists.org/rss/nmap-dev.rss
+VULN|US|Exploit Notes|https://exploit-notes.hdks.org/index.xml
+VULN|US|HackTricks|https://book.hacktricks.xyz/feed.xml
+VULN|US|PentesterLab Blog|https://blog.pentesterlab.com/feed
+VULN|US|Sonar Research|https://www.sonarsource.com/blog/rss.xml
+VULN|US|Snyk Labs|https://labs.snyk.io/feed.xml
+VULN|US|Positive Technologies Research|https://global.ptsecurity.com/analytics/rss
+VULN|US|Rapid7 Labs|https://www.rapid7.com/blog/rss/
+VULN|AU|Assetnote Blog|https://www.assetnote.io/resources/research/feed
+VULN|US|CyberArk Threat Research Blog|https://www.cyberark.com/resources/threat-research-blog/feed
+VULN|US|Akamai Security Intelligence Research|https://www.akamai.com/blog/security-research/rss.xml
+VEND|US|IBM PSIRT Blog|https://www.ibm.com/blogs/psirt/feed/
+VEND|US|NetApp Security Advisories|https://security.netapp.com/advisory/rss.xml
+VEND|US|Synology Security Advisory|https://www.synology.com/en-global/security/advisory/rss
+VEND|US|QNAP Security Advisories|https://www.qnap.com/en/security-advisories/rss
+VEND|US|wolfSSL Blog|https://www.wolfssl.com/feed/
+VEND|US|ISC Blogs (BIND)|https://www.isc.org/blogs/feed/
+VEND|US|nginx News|https://nginx.org/index.rss
+VEND|US|PostgreSQL News|https://www.postgresql.org/news.rss
+VEND|US|Joomla Security Centre|https://developer.joomla.org/security-centre.feed?format=feed&type=rss
+VEND|US|TYPO3 Security Advisories|https://typo3.org/rss/security-advisories
+VEND|US|WordPress News|https://wordpress.org/news/feed/
+VEND|US|RubyGems Blog|https://blog.rubygems.org/feed.xml
+VEND|US|Alpine Linux News|https://alpinelinux.org/atom.xml
+VEND|US|NetBSD Security|https://www.netbsd.org/support/security/advisory.xml
+VEND|US|OpenBSD Journal|https://undeadly.org/cgi?action=rss
+VEND|US|Ubuntu CVE Tracker|https://ubuntu.com/security/cves.rss
+VEND|US|Red Hat CVE Database|https://access.redhat.com/security/data/cve.rss
+VEND|US|SUSE Security Updates|https://www.suse.com/support/update/rss/
+VEND|US|openSUSE Security Announce|https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/feed/
+VEND|US|Debian Security Tracker|https://security-tracker.debian.org/tracker/DSA?rss
+VEND|US|Oracle Linux Errata|https://linux.oracle.com/rss.xml
+VEND|US|Mozilla Add-ons Blog|https://blog.mozilla.org/addons/feed/
+VEND|US|Thunderbird Security|https://blog.thunderbird.net/feed/
+VEND|US|Tor Project Blog|https://blog.torproject.org/feed.xml
+VEND|US|Signal Blog|https://signal.org/blog/rss.xml
+VEND|US|Let's Encrypt|https://letsencrypt.org/feed.xml
+VEND|US|OpenSSH Release Announcements|https://www.openssh.com/rss.xml
+VEND|US|PHP Security Announcements|https://www.php.net/feed.atom
+VEND|US|Rails Security Announcements|https://rubyonrails.org/feed.xml
+VEND|US|Django Security Releases|https://www.djangoproject.com/rss/weblog/
+VEND|US|Spring Security Advisories|https://spring.io/security.atom
+VEND|US|Apache Tomcat Security|https://tomcat.apache.org/security.rss
+VEND|US|Apache Security Team Blog|https://blogs.apache.org/security/feed/entries/atom
+VEND|US|VMware Tanzu Security|https://tanzu.vmware.com/security/rss.xml
+VEND|US|Veeam KB Security|https://www.veeam.com/kb_rss.xml
+VEND|US|Cloudbees Security Advisories|https://www.cloudbees.com/security-advisories/rss.xml
+VEND|US|Zabbix Security|https://www.zabbix.com/rss/security.xml
+VEND|US|Nagios Security|https://www.nagios.com/feed/
+VEND|US|Mitel Security Advisories|https://www.mitel.com/support/security-advisories/rss
+VEND|US|Zyxel Security Advisories|https://www.zyxel.com/global/en/support/security-advisories/rss
+VEND|US|TP-Link Security Advisory|https://www.tp-link.com/en/support/security-advisory/rss/
+VEND|US|D-Link Security Bulletin|https://supportannouncement.us.dlink.com/rss
+VEND|US|Netgear Security Advisories|https://kb.netgear.com/rss/security
+VEND|US|Ubiquiti Security Advisory Bulletins|https://community.ui.com/rss/releases
+VEND|US|Cisco Talos Vulnerability Reports|https://talosintelligence.com/vulnerability_reports.rss
+VEND|US|Palo Alto Networks Security Advisories|https://security.paloaltonetworks.com/rss.xml
+VEND|US|SolarWinds Security Advisories|https://www.solarwinds.com/trust-center/security-advisories/rss
+VEND|US|Progress Security Advisories|https://www.progress.com/security/rss
+VEND|US|Cisco IOS Software Checker|https://sec.cloudapps.cisco.com/security/center/psirtrss20/CiscoSecurityAdvisory.xml
+CERT|GB|NCSC UK Reports|https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml
+CERT|GB|NCSC UK Blog|https://www.ncsc.gov.uk/api/1/services/v1/blog-post-rss-feed.xml
+CERT|GB|NCSC UK News|https://www.ncsc.gov.uk/api/1/services/v1/news-rss-feed.xml
+CERT|GB|NCSC UK Guidance|https://www.ncsc.gov.uk/api/1/services/v1/guidance-rss-feed.xml
+CERT|GB|NCSC UK GOV.UK Atom|https://www.gov.uk/government/organisations/national-cyber-security-centre.atom
+CERT|US|FBI IC3 PSA|https://www.ic3.gov/PSA/RSS
+CERT|US|NSA Cybersecurity Advisories|https://www.nsa.gov/Press-Room/Cybersecurity-Advisories-Guidance/rss/
+CERT|US|CISA News|https://www.cisa.gov/news.xml
+CERT|US|CISA Blog|https://www.cisa.gov/cisa-blog.xml
+CERT|US|CIS MS-ISAC Advisories|https://www.cisecurity.org/feed/advisories
+CERT|US|DOJ Cyber Press|https://www.justice.gov/news/rss?type=press_release&component=1266
+CERT|US|FTC Data Security|https://www.ftc.gov/feeds/press-release-data-security.xml
+CERT|US|US Treasury OFAC Cyber|https://home.treasury.gov/news/press-releases/rss.xml
+CERT|AU|ACSC Cyber Security Alerts|https://www.cyber.gov.au/rss/alerts
+CERT|AU|ACSC Advisories|https://www.cyber.gov.au/rss/advisories
+CERT|NZ|NCSC NZ Alerts|https://www.ncsc.govt.nz/rss/alerts
+CERT|NZ|CERT NZ|https://www.cert.govt.nz/rss/
+CERT|FR|ANSSI Actualités|https://www.ssi.gouv.fr/feed/
+CERT|FR|ANSSI Publications|https://www.ssi.gouv.fr/publications/feed/
+CERT|FR|CERT-FR Menaces et Incidents|https://www.cert.ssi.gouv.fr/ioc/feed/
+CERT|FR|CERT-FR Durcissement|https://www.cert.ssi.gouv.fr/dur/feed/
+CERT|IT|CERT-AgID|https://cert-agid.gov.it/feed/
+CERT|IT|ACN News|https://www.acn.gov.it/portale/feed-rss
+CERT|IT|CERT-PA|https://www.cert-pa.it/feed/
+CERT|HR|CERT.hr|https://www.cert.hr/feed/
+CERT|SI|SI-CERT|https://www.cert.si/feed/
+CERT|CZ|CSIRT.CZ|https://csirt.cz/en/feed/
+CERT|CZ|NUKIB News|https://nukib.gov.cz/cs/rss/
+CERT|SK|CSIRT.SK|https://www.csirt.gov.sk/rss.xml
+CERT|LV|CERT.LV News|https://cert.lv/en/feed
+CERT|EE|RIA Cyber|https://www.ria.ee/en/cyber-security/feed
+CERT|FI|Traficom NCSC-FI|https://www.kyberturvallisuuskeskus.fi/en/feed/rss.xml
+CERT|FI|NCSC-FI Finnish|https://www.kyberturvallisuuskeskus.fi/fi/feed/rss.xml
+CERT|SE|MSB Cyber|https://www.msb.se/sv/rss/nyheter/
+CERT|NO|NSM NorCERT|https://nsm.no/rss/ncsc/
+CERT|DK|CFCS Trusselsvurdering|https://www.cfcs.dk/da/rss/
+CERT|IS|CERT-IS|https://www.cert.is/feed/
+CERT|IE|NCSC IE News|https://www.ncsc.gov.ie/feed/
+CERT|BE|CERT.be|https://cert.be/en/rss
+CERT|BE|CCB Safeonweb|https://ccb.belgium.be/en/rss
+CERT|LU|CIRCL|https://www.circl.lu/rss/
+CERT|LU|CIRCL Blog|https://www.circl.lu/feed.xml
+CERT|NL|NCSC-NL Nieuws|https://www.ncsc.nl/rss
+CERT|NL|Digital Trust Center|https://www.digitaltrustcenter.nl/rss
+CERT|DE|BSI Aktuelle Informationen|https://www.bsi.bund.de/SiteGlobals/Functions/RSSFeed/RSSNewsfeed/RSSNewsfeed_BSI_Presse.xml
+CERT|DE|BSI Cyber-Sicherheitswarnungen|https://www.bsi.bund.de/SiteGlobals/Functions/RSSFeed/RSSNewsfeed/RSSNewsfeed_WID.xml
+CERT|DE|Bürger-CERT|https://www.buerger-cert.de/rss/aktuelle-meldungen.xml
+CERT|CH|MELANI Reports|https://www.ncsc.admin.ch/ncsc/de/home/aktuell/aktuell.rss.html
+CERT|AT|CERT.at Warnings|https://www.cert.at/cert-at.en.warnings.rss_2.0.xml
+CERT|AT|CERT.at Blog EN|https://www.cert.at/cert-at.en.blog.rss_2.0.xml
+CERT|AT|GovCERT Austria|https://www.govcert.gv.at/feed/
+CERT|PT|CERT.PT|https://www.cncs.gov.pt/feed/
+CERT|ES|INCIBE|https://www.incibe.es/feed
+CERT|ES|CCN-CERT Informes|https://www.ccn-cert.cni.es/informes/feed.xml
+CERT|GR|CERT-GR|https://www.cert.gr/feed/
+CERT|CY|CSIRT-CY|https://csirt.cy/feed/
+CERT|MT|CSIRTMalta|https://www.csirtmalta.gov.mt/feed/
+CERT|RO|DNSC Romania|https://dnsc.ro/rss
+CERT|BG|CERT Bulgaria News|https://www.govcert.bg/feed/
+CERT|RS|SRB-CERT|https://www.cert.rs/rss.xml
+CERT|MK|MKD-CIRT|https://mkd-cirt.mk/feed/
+CERT|AL|AL-CSIRT|https://cesk.gov.al/feed/
+CERT|GE|CERT-GOV-GE|https://cert.gov.ge/feed/
+CERT|AM|Armenia CERT|https://www.cert.am/feed/
+CERT|AZ|AZ-CERT|https://cert.gov.az/feed/
+CERT|KZ|KZ-CERT|https://www.cert.gov.kz/rss
+CERT|BY|CERT.BY|https://cert.by/rss
+CERT|MD|CERT-GOV-MD|https://cert.gov.md/feed/
+CERT|TR|USOM Duyurular|https://www.usom.gov.tr/rss/duyuru.rss
+CERT|SA|Saudi CERT|https://cert.gov.sa/en/feed/
+CERT|AE|UAE CSC|https://u.ae/en/rss
+CERT|QA|Q-CERT|https://qcert.org/feed/
+CERT|KW|Kuwait CERT|https://cert.gov.kw/feed/
+CERT|OM|OCERT|https://cert.gov.om/feed/
+CERT|EG|EG-CERT|https://www.egcert.eg/feed/
+CERT|MA|maCERT|https://www.dgssi.gov.ma/feed/
+CERT|TN|tunCERT|https://www.ansi.tn/rss.xml
+CERT|NG|ngCERT|https://cert.gov.ng/feed/
+CERT|KE|National KE-CIRT|https://ke-cirt.go.ke/feed/
+CERT|ZA|CSIRT.ZA|https://www.cybersecurityhub.gov.za/feed/
+CERT|GH|CSIRT Ghana|https://www.csa.gov.gh/feed/
+CERT|RW|RW-CSIRT|https://rwcsirt.gov.rw/feed/
+CERT|IN|CERT-In News|https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES02&rss=1
+CERT|PK|National CERT Pakistan|https://pkcert.gov.pk/feed/
+CERT|BD|BGD e-GOV CIRT|https://www.cirt.gov.bd/feed/
+CERT|LK|Sri Lanka CERT|https://www.cert.gov.lk/feed/
+CERT|NP|NPCERT|https://www.npcert.org/feed/
+CERT|VN|VNCERT|https://vncert.vn/rss.xml
+CERT|PH|CICC Philippines|https://cicc.gov.ph/feed/
+CERT|ID|BSSN|https://bssn.go.id/feed/
+CERT|MY|CyberSecurity Malaysia|https://www.cybersecurity.my/en/rss.xml
+CERT|SG|SingCERT|https://www.csa.gov.sg/singcert/rss
+CERT|KR|KISA Notices|https://www.kisa.or.kr/rss.do
+CERT|TW|TWCERT Alerts|https://www.twcert.org.tw/tw/rss-1-1.xml
+CERT|HK|HKCERT Events|https://www.hkcert.org/getrss/events
+CERT|MO|MOCERT|https://www.mocert.org/feed/
+CERT|MN|MNCERT|https://www.mncert.org.mn/feed/
+CERT|CA|CCCS Cyber Security Blog|https://www.cyber.gc.ca/api/cccs/rss/v1/get?feed=blog&lang=en
+CERT|CA|CCCS Publications|https://www.cyber.gc.ca/api/cccs/rss/v1/get?feed=publications&lang=en
+CERT|CA|CCCS Francais Alertes|https://www.cyber.gc.ca/api/cccs/rss/v1/get?feed=alerts_advisories&lang=fr
+CERT|MX|CERT-MX Gobierno|https://www.gob.mx/guardia-nacional/archivo/prensa/rss
+CERT|BR|CTIR Gov|https://www.gov.br/ctir/pt-br/rss
+CERT|CL|CSIRT Gob Chile Noticias|https://csirt.gob.cl/noticias/feed/
+CERT|CO|ColCERT Alertas|https://www.colcert.gov.co/noticias/feed/
+CERT|PE|PeCERT Alertas|https://www.gob.pe/institucion/pcm/noticias.rss
+CERT|AR|CERT.ar|https://www.argentina.gob.ar/rss/ciberseguridad
+CERT|EC|EcuCERT|https://www.ecucert.gob.ec/feed/
+CERT|UY|CERTuy Noticias|https://www.gub.uy/agesic/rss.xml
+CERT|PY|CERT-PY|https://www.cert.gov.py/feed/
+CERT|CR|CSIRT-CR|https://micitt.go.cr/feed/
+CERT|PA|CSIRT Panama|https://www.cert.pa/feed/
+CERT|DO|CSIRT-RD|https://csirt.gob.do/feed/
+CLOUD|US|Microsoft Cloud Security Blog|https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Azure-Security
+CLOUD|US|Google Cloud CISO Perspectives|https://cloud.google.com/blog/products/identity-security/rss
+CLOUD|US|AWS Security Hub Updates|https://aws.amazon.com/blogs/security/category/security-identity-compliance/aws-security-hub/feed/
+CLOUD|US|AWS Compute Blog Security|https://aws.amazon.com/blogs/security/category/post-types/announcements/feed/
+CLOUD|US|Cloudflare Security Tag|https://blog.cloudflare.com/tag/security/rss/
+CLOUD|US|Cloudflare Zero Trust|https://blog.cloudflare.com/tag/zero-trust/rss/
+CLOUD|US|Cloudflare Vulnerabilities|https://blog.cloudflare.com/tag/vulnerabilities/rss/
+CLOUD|US|Cloudflare Attacks|https://blog.cloudflare.com/tag/ddos/rss/
+CLOUD|US|Azure Blog Security|https://azure.microsoft.com/en-us/blog/topics/security/feed/
+CLOUD|US|Oracle Security Blog|https://blogs.oracle.com/security/rss
+CLOUD|US|IBM Cloud Blog Security|https://www.ibm.com/blog/category/security/feed/
+CLOUD|US|Alibaba Cloud Security|https://www.alibabacloud.com/blog/rss/security
+CLOUD|US|Linode Security|https://www.linode.com/blog/security/feed/
+CLOUD|US|Vultr Security|https://blogs.vultr.com/category/security/feed
+CLOUD|US|Heroku Security|https://blog.heroku.com/security/feed
+CLOUD|US|Netlify Security|https://www.netlify.com/blog/index.xml
+CLOUD|US|Vercel Security|https://vercel.com/atom
+CLOUD|US|Docker Security Blog|https://www.docker.com/blog/category/security/feed/
+CLOUD|US|Kubernetes Security Announce|https://groups.google.com/forum/feed/kubernetes-security-announce/msgs/rss_v2_0.xml
+CLOUD|US|Istio Security Bulletins|https://istio.io/latest/news/security/feed.xml
+CLOUD|US|Envoy Security|https://www.envoyproxy.io/feed.xml
+CLOUD|US|Falco Blog|https://falco.org/feed.xml
+CLOUD|US|Aqua Nautilus|https://www.aquasec.com/blog/feed/
+CLOUD|US|Sysdig Threat Research|https://sysdig.com/blog/category/threat-research/feed/
+CLOUD|US|Wiz Cloud Security Blog|https://www.wiz.io/blog/feed
+CLOUD|US|Lacework|https://www.lacework.com/blog/feed
+CLOUD|US|Prowler|https://prowler.com/blog/feed/
+CLOUD|US|Fugue|https://www.fugue.co/blog/rss.xml
+CLOUD|US|Cloud Security Podcast|https://cloudsecuritypodcast.tv/feed/
+CLOUD|US|CSA Research|https://cloudsecurityalliance.org/research/feed/
+CLOUD|US|CNCF Blog|https://www.cncf.io/feed/
+CLOUD|US|Open Source Security Foundation Blog|https://openssf.org/blog/feed/
+CLOUD|US|Cloud Native Security|https://www.cncf.io/blog/category/security/feed/
+CLOUD|US|Tigera|https://www.tigera.io/blog/feed/
+CLOUD|US|Isovalent|https://isovalent.com/blog/feed/
+CLOUD|US|Snyk Cloud|https://snyk.io/blog/category/cloud-security/feed/
+CLOUD|US|Rezilion|https://www.rezilion.com/blog/feed/
+CLOUD|US|Upwind|https://www.upwind.io/feed/
+CLOUD|US|Sweet Security|https://www.sweet.security/blog/rss.xml
+CLOUD|US|Ermetic Tenable Cloud|https://www.tenable.com/blog/tag/cloud-security/feed
+CLOUD|US|JupiterOne|https://www.jupiterone.com/blog/feed/
+CLOUD|US|Panther Labs|https://panther.com/blog/feed/
+CLOUD|US|Cado Cloud Forensics|https://www.cadosecurity.com/blog/feed/
+CLOUD|US|Datadog Security Blog|https://www.datadoghq.com/blog/category/security/feed/
+CLOUD|US|Cloud Security Alliance Blog|https://cloudsecurityalliance.org/blog/feed/
+ICS|US|Dragos Year in Review|https://www.dragos.com/blog/feed/
+ICS|US|CISA ICS Advisories Feed|https://www.cisa.gov/cybersecurity-advisories/ics-advisories.xml
+ICS|US|ICS-CERT Alerts Archive|https://www.cisa.gov/ics/advisories/rss.xml
+ICS|US|SANS ICS Blog|https://www.sans.org/blog/?focus-area=industrial-control-systems&format=rss
+ICS|US|Industrial Cybersecurity Pulse|https://www.industrialcybersecuritypulse.com/feed/
+ICS|US|Control Engineering Cybersecurity|https://www.controleng.com/category/cybersecurity/feed/
+ICS|US|Automation World Cybersecurity|https://www.automationworld.com/rss/cybersecurity.xml
+ICS|US|ISA Global Cybersecurity Alliance|https://www.isa.org/rss/isagca.xml
+ICS|US|OT Security Blog Claroty|https://claroty.com/blog/feed
+ICS|US|Industrial Cyber News|https://industrialcyber.co/category/news/feed/
+ICS|US|SecurityWeek ICS OT|https://www.securityweek.com/category/ics-ot/feed
+ICS|US|Cyber Security Hub OT|https://www.cshub.com/rss/ot
+ICS|US|Nozomi Networks Labs|https://www.nozominetworks.com/blog/category/labs/feed
+ICS|US|Cyolo OT|https://cyolo.io/blog/feed
+ICS|US|Mission Secure|https://www.missionsecure.com/blog/rss.xml
+ICS|US|Fortress Information Security|https://fortressinfosec.com/feed
+ICS|US|Frenos|https://www.frenos.io/blog/rss.xml
+ICS|US|Tosibox|https://tosibox.com/feed/
+ICS|US|Xage Security|https://xage.com/feed/
+ICS|US|Honeywell Forge Cybersecurity|https://process.honeywell.com/us/en/rss
+ICS|US|Rockwell Automation Security Advisories|https://www.rockwellautomation.com/en-us/support/advisory.rss
+ICS|US|Schneider Electric Cybersecurity|https://www.se.com/ww/en/work/support/cybersecurity/security-notifications.rss
+ICS|US|Yokogawa Security|https://www.yokogawa.com/library/rss/security.xml
+ICS|US|Hitachi Energy Cybersecurity|https://www.hitachienergy.com/rss/cybersecurity
+ICS|US|ICS Advisory Project|https://www.icsadvisoryproject.com/feed/
+ICS|US|CyberX Microsoft IoT|https://www.microsoft.com/en-us/security/blog/product/microsoft-defender-for-iot/feed/
+ICS|US|Cisco Cyber Vision|https://blogs.cisco.com/tag/cybervision/feed
+ICS|US|Medcrypt Medical Device Security|https://www.medcrypt.com/blog/rss.xml
+ICS|US|Health-ISAC|https://h-isac.org/feed/
+ICS|US|Automotive ISAC|https://www.automotiveisac.com/feed/
+ICS|US|Auto-ISAC Blog|https://automotiveisac.com/blog/feed/
+ICS|US|Upstream Automotive Cyber|https://upstream.auto/feed/
+ICS|US|Argus Cyber Security|https://argus-sec.com/feed/
+ICS|US|Karamba Security|https://karambasecurity.com/feed/
+ICS|US|SecuriThings IoT|https://www.securithings.com/blog/feed
+ICS|US|Bastille Networks|https://www.bastille.net/blog/rss.xml
+ICS|US|Sternum IoT|https://sternumiot.com/feed/
+ICS|US|Particle Security|https://www.particle.io/blog/rss.xml
+PRIV|US|IAPP Daily Dashboard|https://iapp.org/rss/daily-dashboard/
+PRIV|US|IAPP News|https://iapp.org/news/rss/
+PRIV|US|Future of Privacy Forum|https://fpf.org/feed/
+PRIV|US|Electronic Frontier Foundation Updates|https://www.eff.org/rss/updates.xml
+PRIV|US|ACLU Privacy & Technology|https://www.aclu.org/issues/privacy-technology/rss.xml
+PRIV|US|Fight for the Future|https://www.fightforthefuture.org/feed/
+PRIV|US|Tor Project News|https://blog.torproject.org/feed.xml
+PRIV|US|Mozilla Foundation Privacy|https://foundation.mozilla.org/en/blog/rss/
+PRIV|US|DuckDuckGo Spread Privacy|https://spreadprivacy.com/rss/
+PRIV|US|Brave Privacy Updates|https://brave.com/privacy-updates/index.xml
+PRIV|US|Privacy Rights Clearinghouse|https://privacyrights.org/rss.xml
+PRIV|US|Have I Been Pwned Latest Breaches|https://feeds.feedburner.com/HaveIBeenPwnedLatestBreaches
+PRIV|US|Data Breach Notifications Maine AG|https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/list.html?rss
+PRIV|US|California AG Data Breaches|https://oag.ca.gov/privacy/databreach/list/rss
+PRIV|US|Washington AG Data Breaches|https://www.atg.wa.gov/rss/data-breach
+PRIV|EU|EDPS News|https://www.edps.europa.eu/feed/news_en
+PRIV|EU|EDPB Press|https://www.edpb.europa.eu/rss.xml
+PRIV|EU|noyb|https://noyb.eu/en/rss.xml
+PRIV|EU|European Digital Rights|https://edri.org/feed/
+PRIV|EU|ENISA Publications|https://www.enisa.europa.eu/publications/rss.xml
+PRIV|EU|GDPR Enforcement Tracker Report|https://www.enforcementtracker.com/rss.xml
+PRIV|GB|ICO Enforcement|https://ico.org.uk/action-weve-taken/enforcement/rss
+PRIV|GB|Open Rights Group|https://www.openrightsgroup.org/feed/
+PRIV|GB|Big Brother Watch|https://bigbrotherwatch.org.uk/feed/
+PRIV|GB|Liberty Human Rights Tech|https://www.libertyhumanrights.org.uk/feed/
+PRIV|DE|Datenschutzkonferenz|https://www.datenschutzkonferenz-online.de/rss.xml
+PRIV|DE|Chaos Computer Club|https://www.ccc.de/de/rss/updates.rdf
+PRIV|FR|La Quadrature du Net|https://www.laquadrature.net/feed/
+PRIV|FR|CNIL Actualités|https://www.cnil.fr/fr/rss.xml
+PRIV|ES|AEPD Noticias|https://www.aepd.es/es/rss/prensa.xml
+PRIV|ES|Xnet Privacidad|https://xnet-x.net/feed/
+PRIV|ES|Derechos Digitales|https://www.derechosdigitales.org/feed/
+PRIV|AR|Fundación Vía Libre|https://www.vialibre.org.ar/feed/
+PRIV|MX|R3D Red en Defensa de los Derechos Digitales|https://r3d.mx/feed/
+PRIV|BR|Data Privacy Brasil|https://www.dataprivacybr.org/feed/
+PRIV|BR|ANPD Notícias|https://www.gov.br/anpd/pt-br/assuntos/noticias/RSS
+PRIV|CO|Fundación Karisma|https://web.karisma.org.co/feed/
+PRIV|CL|Derechos Digitales Chile|https://www.derechosdigitales.org/tema/privacidad/feed/
+PRIV|CA|Citizen Lab Research|https://citizenlab.ca/category/research/feed/
+PRIV|CA|Office of the Privacy Commissioner Canada|https://www.priv.gc.ca/en/rss/news/
+PRIV|AU|OAIC News|https://www.oaic.gov.au/news/rss
+PRIV|AU|Digital Rights Watch|https://digitalrightswatch.org.au/feed/
+PRIV|NZ|Privacy Commissioner NZ|https://www.privacy.org.nz/rss/
+PRIV|IN|Internet Freedom Foundation|https://internetfreedom.in/rss/
+PRIV|IN|MediaNama|https://www.medianama.com/feed/
+MAL|US|Cofense Phishing Intelligence|https://cofense.com/blog/category/phishing-intelligence/feed/
+MAL|US|Proofpoint Threat Insight Feed|https://www.proofpoint.com/us/rss.xml
+MAL|US|Lookout Mobile Threat|https://www.lookout.com/threat-intelligence/feed
+MAL|US|Zimperium zLabs|https://www.zimperium.com/blog/category/zlabs/feed/
+MAL|US|Check Point Research Malware|https://research.checkpoint.com/category/malware-research/feed/
+MAL|US|Securelist Malware|https://securelist.com/category/malware-reports/feed/
+MAL|US|Securelist Ransomware|https://securelist.com/tag/ransomware/feed/
+MAL|US|Malwarebytes Ransomware|https://www.malwarebytes.com/blog/category/ransomware/feed
+MAL|US|Bleeping Ransomware|https://www.bleepingcomputer.com/tag/ransomware/feed/
+MAL|US|SecurityWeek Ransomware|https://www.securityweek.com/tag/ransomware/feed/
+MAL|US|The Record Ransomware|https://therecord.media/tag/ransomware/feed
+MAL|US|Recorded Future Ransomware|https://www.recordedfuture.com/category/ransomware/feed
+MAL|US|Cybereason Ransomware|https://www.cybereason.com/blog/tag/ransomware/rss.xml
+MAL|US|Sophos Ransomware|https://news.sophos.com/en-us/tag/ransomware/feed/
+MAL|US|Chainalysis Blog|https://www.chainalysis.com/blog/feed/
+MAL|US|TRM Labs|https://www.trmlabs.com/post/rss.xml
+MAL|US|Elliptic Blog|https://www.elliptic.co/blog/rss.xml
+MAL|US|Coveware Blog|https://www.coveware.com/blog?format=rss
+MAL|US|Emsisoft Ransomware|https://www.emsisoft.com/en/blog/category/ransomware/feed/
+MAL|US|Ransomware.org|https://ransomware.org/feed/
+MAL|US|ID Ransomware|https://id-ransomware.malwarehunterteam.com/feed.xml
+MAL|US|No More Ransom|https://www.nomoreransom.org/en/news.rss
+MAL|US|Dissect Malware|https://blog.talosintelligence.com/tag/malware/rss/
+MAL|US|Mandiant Malware|https://cloud.google.com/blog/topics/threat-intelligence/malware/rss
+MAL|US|Palo Alto Unit 42 Malware|https://unit42.paloaltonetworks.com/category/malware/feed/
+MAL|US|Trellix Malware|https://www.trellix.com/blogs/research/feed/
+MAL|US|ESET WeLiveSecurity|https://www.welivesecurity.com/feed/
+MAL|US|Intezer Malware|https://intezer.com/blog/category/malware-analysis/feed/
+MAL|US|VMRay Labs|https://www.vmray.com/blog/feed/
+MAL|US|Hybrid Analysis|https://hybrid-analysis.blogspot.com/feeds/posts/default
+MAL|US|Any.Run Malware Trends|https://any.run/cybersecurity-blog/category/malware-analysis/feed/
+MAL|US|Joe Security Blog|https://www.joesecurity.org/blog.rss
+MAL|US|Triage Hatching Blog|https://tria.ge/blog/rss.xml
+MAL|US|Zscaler ThreatLabz Malware|https://www.zscaler.com/blogs/security-research/feed?type=malware
+MAL|US|Spamhaus News|https://www.spamhaus.org/news/rss/
+MAL|US|Sucuri Labs|https://blog.sucuri.net/category/malware/feed
+MAL|US|Wordfence Threat Intel|https://www.wordfence.com/blog/category/threat-intel/feed/
+MAL|US|Malwarebytes Mobile|https://www.malwarebytes.com/blog/category/mobile/feed
+MAL|US|Mobile Security Framework|https://opensecurity.in/feed/
+MAL|US|Kaspersky Mobile Threats|https://securelist.com/category/mobile-threats/feed/

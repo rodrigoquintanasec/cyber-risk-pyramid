@@ -1,0 +1,43 @@
+# dependencies / build output
+node_modules/
+dist/
+tsconfig.tsbuildinfo
+backend/.venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# secrets and local configuration
+.env
+.env.*
+!.env.example
+backend/.env
+*.pem
+*.key
+
+# databases, WAL/SHM, backups, import temp files: never commit user or company data
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+*.sqlite-journal
+*.db
+*.db-wal
+*.db-shm
+backend/data/*
+!backend/data/mitre_attack.json
+backend/data/backups/
+backend/data/import_tmp/
+
+# logs, caches, temporary files, local tooling output
+*.log
+.cache/
+tmp/
+backend/tools/validation_results*.json
+vite.verify.config.ts
+
+# editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

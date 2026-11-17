@@ -1,0 +1,70 @@
+# Cyber Risk Pyramid - self-hosted. `docker compose up -d`, then open http://localhost:8080
+# The web port is bound to 127.0.0.1 on purpose: the app has no user authentication yet (see SECURITY.md).
+name: cyber-risk-pyramid
+
+services:
+  backend:
+    build:
+      context: ./backend
+    image: cyber-risk-pyramid-backend:latest
+    restart: unless-stopped
+    init: true                      # reaps zombies and forwards SIGTERM to Uvicorn
+    stop_grace_period: 30s          # lets an import checkpoint and SQLite close cleanly
+    environment:
+      DB_PATH: /data/cache.sqlite
+      INTEL_TMP_DIR: /data/import_tmp
+      PYRAMID_TRUST_PROXY: "1"      # reachable only from the bundled nginx (no published port): its private address counts as local
+      PYRAMID_AUTO_ENRICH: ${PYRAMID_AUTO_ENRICH:-1}
+      NEWS_INTERVAL_MINUTES: ${NEWS_INTERVAL_MINUTES:-30}
+      NEWS_WORKERS: ${NEWS_WORKERS:-8}
+      NVD_API_KEY: ${NVD_API_KEY:-}
+      CORS_ORIGINS: http://localhost:${PYRAMID_PORT:-8080},http://127.0.0.1:${PYRAMID_PORT:-8080}
+    volumes:
+      - pyramid_data:/data
+    expose:
+      - "8000"                      # internal network only; never published to the host
+    networks: [internal]
+    security_opt:
+      - no-new-privileges:true
+    cap_drop: [ALL]
+    read_only: true
+    tmpfs:
+      - /tmp
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://127.0.0.1:8000/api/health', timeout=4).status == 200 else 1)"]
+      interval: 15s
+      timeout: 5s
+      retries: 5
+      start_period: 40s
+
+  frontend:
+    build:
+      context: .
+      dockerfile: frontend.Dockerfile
+    image: cyber-risk-pyramid-frontend:latest
+    restart: unless-stopped
+    depends_on:
+      backend:
+        condition: service_healthy
+    ports:
+      - "127.0.0.1:${PYRAMID_PORT:-8080}:8080"
+    networks: [internal]
+    security_opt:
+      - no-new-privileges:true
+    cap_drop: [ALL]
+    read_only: true
+    tmpfs:
+      - /tmp
+      - /var/cache/nginx
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://127.0.0.1:8080/healthz"]
+      interval: 15s
+      timeout: 4s
+      retries: 5
+      start_period: 10s
+
+networks:
+  internal: {}
+
+volumes:
+  pyramid_data:                     # SQLite database (+ WAL/SHM), import checkpoints and temporary files. `docker compose down -v` DELETES it.

@@ -1,0 +1,18 @@
+# frontend build context (the backend has its own backend/.dockerignore and context)
+node_modules
+dist
+backend
+scripts
+docs
+.git
+.github
+.pytest_cache
+.env
+.env.*
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+*.db
+*.log
+tsconfig.tsbuildinfo
+vite.verify.config.ts

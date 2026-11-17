@@ -1,0 +1,17 @@
+# Normalise line endings so a Windows checkout (core.autocrlf) never breaks Docker builds, nginx config or shell snippets.
+* text=auto
+*.sh text eol=lf
+*.conf text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+Dockerfile text eol=lf
+*.Dockerfile text eol=lf
+*.py text eol=lf
+*.ts text eol=lf
+*.tsx text eol=lf
+*.mjs text eol=lf
+*.json text eol=lf
+*.png binary
+*.jpg binary
+*.gif binary
+*.ico binary
